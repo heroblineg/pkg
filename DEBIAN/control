@@ -1,0 +1,7 @@
+Package: pkg
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: AM Linux Team <malum4678@gmail.com>
+Description: Custom apt management tool with sudo auto elevation and simplified options
